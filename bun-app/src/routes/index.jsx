@@ -32,6 +32,7 @@ export default function Index() {
         <sc.SocialsDiv>
           <li><a href='https://twitter.com/Sapph_Ink'>Twitter:<br />@Sapph_Ink</a></li>
           <li><a href='https://sapph1nk.tumblr.com/'>Tumblr:<br />@sapph1nk</a></li>
+          <li><a href='https://sapph-ink.itch.io/'>Itch.io:<br />@Sapph.ink</a></li>
           <li><a href='https://www.tiktok.com/@sapph_ink'>Tiktok:<br />@sapph_ink</a></li>
           <li><a href='https://mastodon.gamedev.place/@Sapph_Ink'>Mastadon:<br />@Sapph_Ink</a></li>
         </sc.SocialsDiv>

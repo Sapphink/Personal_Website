@@ -2,7 +2,7 @@
   "name": "bun-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https:/Sapphink.github.io/Personal_Website/",
+  "homepage": "https://sapphink.github.io/Personal_Website/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
